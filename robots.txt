@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-gm4tl2.indocuan-vip.sbs/sitemap.xml
